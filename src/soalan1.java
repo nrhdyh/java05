@@ -18,6 +18,6 @@ public class soalan1 {
      System.out.println("Peserta:"+peserta);
      System.out.println("Tahun:"+tahun);
      System.out.println("Jantina:"+jantina);
-     
+      System.out.println("hi");
  }   
 }
